@@ -2,6 +2,8 @@ Project Management and Monitoring
 
 Open Elective: OECE-103
 
+| Contents | Syllabus | 
+
 Sukhwinder Singh (Asst. Prof.)
 
 Department of Civil Engineering
