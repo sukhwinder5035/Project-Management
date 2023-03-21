@@ -1,8 +1,7 @@
 Project Management and Monitoring
-
 Open Elective: OECE-103
 
-| Contents | Syllabus | 
+| Chapters  | Syllabus | Reference Books|
 
 Sukhwinder Singh (Asst. Prof.)
 
