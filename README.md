@@ -1,6 +1,6 @@
-Project Management and Control with PERT and CPM	
+Project Management and Monitoring
 
-Open Elective:	
+Open Elective: OECE-103
 
 Sukhwinder Singh (Asst. Prof.)
 
