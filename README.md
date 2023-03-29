@@ -1,16 +1,14 @@
 Project Management and Monitoring
 Open Elective: OECE-103
 
-| Chapters  | Syllabus | Reference Books|
-[Click here](https://ce.gndec.ac.in/sites/default/files/BTech_2018_12_05_2022.pdf) to go to my website.
+| Chapters  | [Syllabus](https://ce.gndec.ac.in/sites/default/files/BTech_2018_12_05_2022.pdf) | Reference Books|
 
+**Teacher:** Sukhwinder Singh (Asst. Prof.)
 
-Sukhwinder Singh (Asst. Prof.)
+*Department of Civil Engineering*
 
-Department of Civil Engineering
+*Guru Nanak Dev Engineering College, Ludhiana*
 
-Guru Nanak Dev Engineering College, Ludhiana
+==ce_sukhwinder@gndec.ac.in==
 
-Email id: ce_sukhwinder@gndec.ac.in
-
-Mobile Number: 987610717
+==Mobile Number: 987610717==
