@@ -11,6 +11,6 @@ Open Elective: OECE-103
 
 *Guru Nanak Dev Engineering College, Ludhiana*
 
-==ce_sukhwinder@gndec.ac.in==
+ce_sukhwinder@gndec.ac.in
 
-==Mobile Number: 987610717==
+Mobile Number: 987610717
