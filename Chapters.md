@@ -1,4 +1,4 @@
-**Chapter 1:** Project Management
+**Chapter 1:** [Project Management](chapter 1.md)
 
 **Chapter 2:** Bar Charts and Milestone Charts
 
