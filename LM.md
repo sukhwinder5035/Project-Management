@@ -1,6 +1,6 @@
 - [Chapter 1](Presentations.md/chapter1)
-- [Chapter 2]
-- [Chapter 3]
+- [Chapter 2](Presentations.md/chapter2)
+- [Chapter 3](Presentations.md/chapter3)
 - [Chapter 4]
 - [Chapter 5]
 - [Chapter 6]
