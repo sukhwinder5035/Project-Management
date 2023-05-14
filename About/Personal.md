@@ -1,6 +1,6 @@
 **Name:** Sukhwinder Singh
 
-**Father's Name**:Gurnam Singh
+**Father's Name**: Gurnam Singh
 
 **Mother's Name:** Darshan Kaur
 
