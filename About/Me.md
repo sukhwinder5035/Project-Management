@@ -9,4 +9,4 @@
 </html>
 
 ### About
-| [Personal](About/Me/Personal.md) | [Professional](About/Me/Professional.md) | 
+| [Personal](About/Personal.md) | [Professional](About/Professional.md) | 
