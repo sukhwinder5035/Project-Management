@@ -1,2 +1,2 @@
-- [Assignment-I](Assignment/Assignment-I.pdf)
-- [Assignment-II](Assignments/Assignment-II.pdf)
+- [Assignment-I](Assignment/Assignment I_PMM_JM'23.pdf)
+- [Assignment-II](Assignments/Assignment II_PMM_JM'23.pdf)
