@@ -1,2 +1,2 @@
-- [Assignment-I](Assignment-I.md)
-- [Assignment-II](Assignment-II.md)
+- [Assignment-I](Assignment/Assignment-I.pdf)
+- [Assignment-II](Assignments/Assignment-II.pdf)
