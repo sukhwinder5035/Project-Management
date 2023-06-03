@@ -1,2 +1,2 @@
-- [Assignment-I] (Assignments/Assignment I_PMM_JM'23.pdf)
-- [Assignment-II] (Assignments/Assignment II_PMM_JM'23.pdf)
+- [Assignment-I] (Assignments/Assignment-I_PMM_JM'23.pdf)
+- [Assignment-II] (Assignments/Assignment-II_PMM_JM'23.pdf)
