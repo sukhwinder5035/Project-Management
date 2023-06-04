@@ -12,10 +12,10 @@
 
 **[Facebook contact](https://www.facebook.com/profile.php?id=100001386774408)**
 
-**email id:** ce_sukhwinder@gndec.ac.in
+**email id:** ce_sukhwinder@gndec.ac.in/sukhwinder_5035@yahoo.co.in
 
 **Contact Number:** 9876510717
 
-**Hobbies:** Gardening
+**Hobbies:** Gardening & Painting
 
 **Sports:** Table Tennis
