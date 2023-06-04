@@ -4,4 +4,4 @@
 >SUBMIT ASSIGNMENTS!
    >>[Assignment-I](https://forms.gle/bDzq3u4cBsXyUe1y9)
   
-   >>[Assignment-II]
+   >>[Assignment-II](https://forms.gle/6QV6ZeYcLgwdDaeh9)
