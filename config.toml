@@ -1,0 +1,49 @@
+title = "Sukhwinder Singh"
+
+# 1. Replace hsrai with your userID on code.gndec.ac.in server
+#baseURL = "http://code.gndec.ac.in/~sukhwinder_ce/www"
+# 2. Type # at the beginning of above line
+
+# 2. Remove # from line below and replace hsrai with your userID at github 
+baseURL = "https://sukhwinder5035.github.io/www"
+
+# 2. Remove # from line below
+publishDir = "docs"
+
+# 2. Type # at the beginning of line below
+#publishDir = "../public_html/www"
+
+languageCode = "en-us"
+theme = "ananke"
+themesDir = "themes"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Master trainer: Empowering Folk"
+  facebook = "https://www.facebook.com/profile.php?id=100001386774408"
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
