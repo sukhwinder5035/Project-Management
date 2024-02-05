@@ -1,5 +1,5 @@
 - [Chapter 1](https://github.com/sukhwinder5035/Project-Management/files/11300418/Chapter.1.Project.Planning.1.pdf)
-- [Chapter 2](https://github.com/sukhwinder5035/Project-Management/files/Presentations/Chapter 2 Bar Charts and Milestone Charts.Pdf)
+- [Chapter 2](https://github.com/sukhwinder5035/Project-Management/files/Presentations/files/Chapter 2 Bar Charts and Milestone Charts.Pdf)
 - [Chapter 3]()
 - [Chapter 4]()
 - [Chapter 5]()
