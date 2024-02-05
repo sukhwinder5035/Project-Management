@@ -1,6 +1,6 @@
 - [Chapter 1](https://github.com/sukhwinder5035/Project-Management/files/11300418/Chapter.1.Project.Planning.1.pdf)
 - [Chapter 2](https://drive.google.com/file/d/1lNBO6oBdXDBZv4dC5MEVZF_8GoIlUV-K/view?usp=drive_link)
-- [Chapter 3]([https://drive.google.com/file/d/1pCWF5V5POkD2cVtldPRrrpBHOXO1wb42/view?usp=drive_link)
+- [Chapter 3](https://drive.google.com/file/d/1pCWF5V5POkD2cVtldPRrrpBHOXO1wb42/view?usp=drive_link)
 - [Chapter 4](https://drive.google.com/file/d/1jNadrqkUKnvXaufv5AUhZ-lk8fftnqxC/view?usp=drive_link)
 - [Chapter 5](https://drive.google.com/file/d/1IAvkdCji1yJnw7pn6WUoiO3bNIoUbTWb/view?usp=drive_link)
 - [Chapter 6](https://drive.google.com/file/d/1uAaOSsXZNXJjULYk8CysL6MFa9M1EH_E/view?usp=drive_link)
