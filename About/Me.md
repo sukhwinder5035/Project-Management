@@ -7,4 +7,4 @@
   </body>
 </html>
 
-| [Personal](Personal.md) | | [Professional](Professional.md) |
+| [Personal](Personal.md) | [Professional](Professional.md) |
