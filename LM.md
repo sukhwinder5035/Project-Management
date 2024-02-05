@@ -1,6 +1,6 @@
 - [Chapter 1](https://github.com/sukhwinder5035/Project-Management/files/11300418/Chapter.1.Project.Planning.1.pdf)
 - [Chapter 2](https://github.com/sukhwinder5035/Project-Management/blob/main/Presentations/Chapter%202%20Bar%20Charts%20and%20Milestone%20Charts.pdf)
-- [Chapter 3]()
+- [Chapter 3](https://github.com/sukhwinder5035/Project-Management/blob/main/Presentations/Chapter%203%20Elements%20of%20Network.pdf)
 - [Chapter 4]()
 - [Chapter 5]()
 - [Chapter 6]()
