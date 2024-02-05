@@ -8,6 +8,10 @@
 
 **Marital Status:** Married
 
+**Spouce Name** Harpreet Kaur
+
+**Daughter Name** Nehmat Kaur
+
 **Home Town:** Ludhiana
 
 **[Facebook contact](https://www.facebook.com/profile.php?id=100001386774408)**
