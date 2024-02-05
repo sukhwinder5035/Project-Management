@@ -1,10 +1,10 @@
-## Profession: Civil Engineering
+## Profession: Civil Engineering/Mechanical Engineerng
   
 >**Specialisation:** Structural Engineering
 
-  >>**Surveying**
+  >>**Surveying (Civil)**
   
-  >>**Structure Design**
+  >>**Structure Design (Civil)**
 
-  >>**Quality Inspector**
+  >>**Quality Inspector (Civil Works)**
   
